@@ -1,6 +1,6 @@
 # All Restaurants in Providence, Rhode Island, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 86 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `160118` |
 | Location | Providence |
 | Category | Restaurants |
-| Full dataset size | 643 records |
-| Free sample size | 25 records (3.89%) |
-| Last export | 2026-03-31T15:43:13.446837+00:00 |
+| Full dataset size | 866 records |
+| Free sample size | 86 records (9.93%) |
+| Last export | 2026-04-14T16:27:21.638096+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-providence-rhode-island-us-sample-160118/releases/download/sample-latest/beamstation_160118_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
