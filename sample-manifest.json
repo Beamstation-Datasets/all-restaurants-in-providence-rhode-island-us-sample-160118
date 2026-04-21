@@ -1,12 +1,12 @@
 {
-  "export_job_id": "845b20c8-1c5d-4759-8e2d-267932065a9e",
+  "export_job_id": "fe6ff9b1-e0f8-46ef-908a-a73c5d5f22c6",
   "id_short": 160118,
-  "published_at": "2026-04-17T19:05:07Z",
+  "published_at": "2026-04-21T19:06:14Z",
   "repo_name": "all-restaurants-in-providence-rhode-island-us-sample-160118",
   "sample_asset_name": "beamstation_160118_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/160118/beamstation_160118_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 86,
-  "sample_sha256": "722d2eff86ac9617b9747a8b0be66a0b8681862be0d99814f927d2a9c847fcba",
-  "sample_size_bytes": 316735,
-  "total_records": 866
+  "sample_records": 70,
+  "sample_sha256": "6dc194a65399a4f1158aacb233c75a73a063add8ff0001b3920ead908e2f602d",
+  "sample_size_bytes": 262539,
+  "total_records": 706
 }
